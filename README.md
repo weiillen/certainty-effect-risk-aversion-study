@@ -26,8 +26,6 @@ This group presentation organizes a classroom activity into three parts: **philo
 ```text
 .
 ├── README.md
-├── ORIGINAL_FILE_MANIFEST.tsv
-├── PUBLICATION_NOTES.md
 ├── docs/
 ├── assets/
 ```
